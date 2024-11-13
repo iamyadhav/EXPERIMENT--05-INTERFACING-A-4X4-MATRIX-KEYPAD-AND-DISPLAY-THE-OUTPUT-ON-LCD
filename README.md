@@ -436,7 +436,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots of proteus  :
-![image](https://github.com/user-attachments/assets/840877d0-0a4e-4def-be35-1201cf89578e)
+![WhatsApp Image 2024-11-13 at 09 42 16_4b8abff5](https://github.com/user-attachments/assets/0a4e5e39-d1ef-4b44-8479-55442788ba82)
 
  
  
